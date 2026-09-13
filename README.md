@@ -1,4 +1,4 @@
-#CQRS Mnorepo
+# CQRS Monorepo
 
 Repositório contendo múltiplas aplicações que implementam o padrão **CQRS**
 
